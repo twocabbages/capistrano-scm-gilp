@@ -1,6 +1,6 @@
 /.bundle/
-/.svn/
-/.idea/
+/.svn
+/.idea
 /.yardoc
 /Gemfile.lock
 /_yardoc/
